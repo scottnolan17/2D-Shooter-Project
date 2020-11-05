@@ -8,3 +8,6 @@ Features in this project:
   - 2D animations
   - Customizable and scaling difficulty
   - Menus with score tracking
+
+Download the bin directory and run the .exe to try it out.
+W, A, S, D to move, Space to shoot, and Esc to quit.
